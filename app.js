@@ -179,3 +179,9 @@ async function  api(){
  (async()=>{
      await asyncfunction2();
  })();
+
+
+
+
+//  promise.all()
+ 
